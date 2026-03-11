@@ -6,7 +6,7 @@ Proyecto académico de Ingeniería de Software enfocado en el desarrollo de un s
 
 El cronograma detallado del proyecto se encuentra en el siguiente archivo:
 
-📅 [Ver cronograma del proyecto](cronograma_proyecto.xlsx)
+📅 [Ver cronograma del proyecto](![Cronograma](/prueba.png)
 
 ## Introducción
 
