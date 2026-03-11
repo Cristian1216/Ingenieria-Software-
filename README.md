@@ -23,4 +23,7 @@ El sistema permite gestionar y controlar el acceso de usuarios a instalaciones m
 - **Hardware:** Lector RFID  
 - **Servidor:** Linux Ubuntu Server  
 
-## Estructura del repositorio
+## Autor
+
+**Cristian Daniel Henao Flórez**  
+Estudiante de Ingeniería Informática
