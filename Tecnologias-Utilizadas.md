@@ -76,8 +76,8 @@ Ejemplo de hardware:
 ![Cronograma](img/Diagrama.png)
 
 # Diseño Caja
-![Cronograma](img/Frontal.stl)
-![Cronograma](img/Trasera.stl)
+![Abrir Diseño Caja 3D Frontal](img/Frontal.stl)
+![Abrir Diseño Caja 3D Trasero](img/Trasera.stl)
 
 # Diseño PCB
 ![Cronograma](img/PCB1.png)
