@@ -73,6 +73,9 @@ Ejemplo de hardware:
 - ESP32
 - Módulos RFID
 
+![Cronograma](img/Diagrama.png)
+
+
 ### Justificación
 
 Estos dispositivos permiten capturar información del entorno físico y enviarla al sistema para su procesamiento.
