@@ -81,7 +81,7 @@ Ejemplo de hardware:
 
 # Diseño PCB
 ![Cronograma](img/PCB1.png)
-![Cronograma](img/PCB2.stl)
+![Cronograma](img/PCB2.png)
 
 ### Justificación
 
