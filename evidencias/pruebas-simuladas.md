@@ -7,6 +7,9 @@
 
 El sistema permitió registrar el usuario correctamente y los datos se almacenaron en la base de datos.
 
+![Cronograma](img/ID.png)
+![Cronograma](img/ID1.png)
+
 ---
 
 ### Prueba CP-02
