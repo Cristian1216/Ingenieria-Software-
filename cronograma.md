@@ -2,4 +2,4 @@
 
 El cronograma detallado del proyecto se encuentra a continuación:
 
-[Cronograma](/prueba.png)
+📅 [Ver cronograma del proyecto](![Cronograma](/prueba.png)
