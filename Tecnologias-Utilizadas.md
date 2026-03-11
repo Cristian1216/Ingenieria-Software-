@@ -78,10 +78,12 @@ Ejemplo de hardware:
 # Diseño Caja
 💡![Abrir Diseño Caja 3D Frontal](img/Frontal.stl)
 💡![Abrir Diseño Caja 3D Trasero](img/Trasera.stl)
+![Cronograma](img/Caja.png)
 
 # Diseño PCB
 ![Cronograma](img/PCB1.png)
 ![Cronograma](img/PCB2.png)
+![Cronograma](img/Circuito.png)
 
 ### Justificación
 
