@@ -24,6 +24,8 @@ Para acceder al sistema, el usuario debe:
 
 Si las credenciales son correctas, el sistema mostrará el **Panel Administrativo**.
 
+![Cronograma](img/Login.png)
+
 ---
 
 # 3. Panel Administrativo
@@ -56,6 +58,9 @@ Esta funcionalidad permite registrar las personas que tendrán acceso a las inst
 - Cargo
 - Área o departamento
 - Estado (activo/inactivo)
+
+![Cronograma](img/Usuarios.png)
+
 
 4. Guardar la información.
 
@@ -149,6 +154,9 @@ El sistema permite generar reportes sobre:
 3. Definir filtros (fecha, usuario, ubicación).
 4. Generar reporte.
 
+  ![Cronograma](img/Exporte.png)
+  ![Cronograma](img/Exporte1.png)
+  
 ---
 
 # 10. Exportación de Reportes
@@ -157,6 +165,8 @@ Los reportes generados pueden exportarse en formatos:
 
 - Excel (.xlsx)
 - CSV
+
+  ![Cronograma](img/Logs.png)
 
 Esto permite realizar análisis adicionales o compartir información con otras áreas de la organización.
 
