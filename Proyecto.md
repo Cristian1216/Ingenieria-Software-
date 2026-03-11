@@ -181,6 +181,8 @@ Líder del proyecto encargado de facilitar el trabajo del equipo y eliminar impe
 - Integración hardware
 - Base de datos
 
+![Cronograma](img/UML.png) 
+
 ---
 
 ## Stakeholders
