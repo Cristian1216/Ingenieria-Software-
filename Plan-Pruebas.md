@@ -190,6 +190,3 @@ El sistema genera el reporte correctamente.
 
 ---
 
-# 7. Evidencias Simuladas de Pruebas
-
-Archivo sugerido:
