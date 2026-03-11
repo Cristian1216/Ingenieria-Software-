@@ -2,12 +2,6 @@
 
 Proyecto académico de Ingeniería de Software enfocado en el desarrollo de un sistema de control de accesos para empresas mediante tecnología RFID y validación en un servidor central.
 
-## Cronograma del Proyecto
-
-El cronograma detallado del proyecto se encuentra en el siguiente archivo:
-
-📅 [Ver cronograma del proyecto](![Cronograma](/prueba.png)
-
 ## Introducción
 
 En muchas empresas, el control de acceso a áreas restringidas aún se realiza mediante métodos manuales o poco seguros como:
