@@ -240,15 +240,12 @@ Líder del proyecto encargado de facilitar el trabajo del equipo y eliminar impe
 
 **Base de datos**
 - MySQL
-- PostgreSQL
 
 **Backend**
-- Node.js
-- Python
-
+- PHP
 **Frontend**
-- React
-- Vue
+- HTML
+- CSS/Boostrap
 
 Estas herramientas permiten:
 
