@@ -14,9 +14,8 @@ El backend es responsable de procesar la lógica del sistema y gestionar la comu
 
 Tecnologías utilizadas:
 
-- Node.js / Python
+- PHP
 - API REST
-- Framework backend (Express / Flask)
 
 ### Justificación
 
@@ -33,6 +32,7 @@ Tecnologías utilizadas:
 - HTML5
 - CSS3
 - JavaScript
+- Bootstrap
 - Framework de interfaz (React o similar)
 
 ### Justificación
@@ -47,7 +47,7 @@ El sistema utiliza una base de datos relacional para almacenar la información.
 
 Tecnología utilizada:
 
-MySQL / PostgreSQL
+MySQL
 
 ### Información almacenada
 
