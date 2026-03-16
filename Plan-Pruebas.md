@@ -93,11 +93,11 @@ El entorno de pruebas incluye los siguientes componentes:
 
 | Componente | Tecnología |
 |------------|------------|
-| Servidor de aplicación | Node.js |
-| Base de datos | PostgreSQL |
-| Frontend | React |
-| Dispositivo RFID | Lector compatible con protocolo serial |
-| Sistema operativo | Linux Ubuntu Server |
+| Servidor de aplicación | PHP |
+| Base de datos | MySQL |
+| Frontend | Bootstrap |
+| Dispositivo RFID | ESP32 |
+| Sistema operativo | Arduino |
 
 ---
 
